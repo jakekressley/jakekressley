@@ -1,6 +1,6 @@
 ### Hey, I'm Jake 👋
 
-I am a full stack software developer from Royersford, PA.
+I am a full stack software developer from Reading, PA.
 <!--
 **jakekressley/jakekressley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
