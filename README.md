@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on a full stack application where user's guess which city across the world is hotter at the current moment
 - 🌱 I’m currently studying Computer Science at the University of Pittsburgh and expect to graduate in 2026
-- 🤔 Actively learning: React, Next.js
+- 🤔 Actively learning: FastAPI
 - 🏀 When I have free time, I love to play basketball with my friends
 
 ---
