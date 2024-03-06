@@ -1,12 +1,11 @@
-<style>
-#greeting {display: block;font-size: 2em;margin-top: 0.67em;margin-bottom: 0.67em;margin-left: 0;margin-right: 0;font-weight: bold;}
-</style>
-
 <div id="header" align="center" border="none">
     <img   src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG9pbmZtaXgwZnJtbGhnZnc2ZDQ5NHQ0aTFrano5OXoybnJkcXJsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9LOCaxy7KXr7n8hVP/giphy.gif" width="250"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/jakekressley/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://github.com/jakekressley/jakekressley/blob/main/Jake_Kressley_Resume.pdf">
+      <img src="https://img.shields.io/badge/Resume-hotpink?style=for-the-badge" alt="Resume Badge"/>
     </a>
   </div>
   <div>
@@ -15,8 +14,6 @@
     </h1>
   </div>
 </div>
-
----
 
 
 - 🌆 I am a full stack software developer from Reading, PA.
@@ -44,11 +41,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakekressley&layout=compact&theme=material-palenight&hide=jupyter%20notebook"/>
-</div>
-
 ---
 
-<div style="width: max-content; margin: auto;">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakekressley&layout=compact&theme=material-palenight&hide=jupyter%20notebook"/>
 </div>
