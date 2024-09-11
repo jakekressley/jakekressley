@@ -7,6 +7,9 @@
     <a href="https://github.com/jakekressley/jakekressley/blob/main/Jake_Kressley_Resume.pdf">
       <img src="https://img.shields.io/badge/Resume-hotpink?style=for-the-badge" alt="Resume Badge"/>
     </a>
+    <a href="https://www.jakekressley.com">
+      <img src="https://img.shields.io/badge/Website-purple?style=for-the-badge" alt="Website Badge"/>
+    </a>
   </div>
   <div>
     <h1>I'm Jake
