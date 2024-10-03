@@ -23,7 +23,7 @@
 - :briefcase: Past Software Engineer Intern at Advantexe Learning Solutions
 - 🔭 I’m currently working on a full stack clone of YouTube
 - 🌱 I’m currently studying Computer Science at the University of Pittsburgh and expect to graduate in 2026
-- 🤔 Actively learning: Google Cloud
+- 🤔 Actively learning: Angular
 - 🏀 When I have free time, I love to play basketball with my friends
 
 ---
