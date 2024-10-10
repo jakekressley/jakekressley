@@ -20,7 +20,7 @@
 
 
 - 🌆 I am a full stack software developer from Reading, PA.
-- :briefcase: Past Software Engineer Intern at Advantexe Learning Solutions
+- :briefcase: Past Web Application Developer Intern at Advantexe Learning Solutions
 - 🔭 I’m currently working on a full stack clone of YouTube
 - 🌱 I’m currently studying Computer Science at the University of Pittsburgh and expect to graduate in 2026
 - 🤔 Actively learning: Angular
