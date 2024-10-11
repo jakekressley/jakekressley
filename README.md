@@ -19,9 +19,8 @@
 </div>
 
 
-- 🌆 I am a full stack software developer from Reading, PA.
-- 🔭 I’m currently working on a full stack clone of YouTube
-- 🌱 I’m currently studying Computer Science at the University of Pittsburgh and expect to graduate in 2026
+- 🌆 Full stack software developer from Reading, PA.
+- 🌱 Currently studying Computer Science at the University of Pittsburgh and expect to graduate in 2026
 - 🤔 Actively learning: Angular
 - 🏀 When I have free time, I love to play basketball with my friends
 
