@@ -21,7 +21,7 @@
 
 - 🌆 Full stack software developer from Reading, PA.
 - 🌱 Currently studying Computer Science at the University of Pittsburgh and expect to graduate in 2026
-- 🤔 Actively learning: Angular
+- 🤔 Actively learning: Neovim
 - 🏀 When I have free time, I love to play basketball with my friends
 
 ---
