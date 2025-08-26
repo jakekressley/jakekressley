@@ -19,9 +19,9 @@
 </div>
 
 
-- 🌆 Full stack software developer from Reading, PA.
-- 🌱 Currently studying Computer Science at the University of Pittsburgh and expect to graduate in 2026
-- 🤔 Actively learning: Neovim
+- 🌆 Full stack software developer from Philadelphia, PA.
+- 🌱 Currently studying Computer Science at the University of Pittsburgh and expect to graduate in December 2025
+- 🤔 Actively learning: Golang
 - 🏀 When I have free time, I love to play basketball with my friends
 
 ---
